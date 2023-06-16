@@ -85,8 +85,7 @@ h4.notion-heading{font-size:1.2rem!important}.notion-root>h1{margin-bottom:60px!
   border:1px solid var(--color-border-default)!important; /* OG border:1px solid var(--color-yellow)!important; */
   background:var(--color-text-light)!important; /* OG background:var(--color-yellow)!important; */
   color:black!important; /* OG: color:var(--color-text-light)!important; */
-  padding:25px!important;
-  /*box-shadow: 0 2px 3px rgb(3 27 78 / 5%)!important; /* OG: wasn't here at all */ /*
+  padding:25px!important
 }
 .notion-callout.bg-green-light{border:1px solid var(--color-green)!important;background:var(--color-green)!important;color:var(--color-text-light)!important;padding:25px!important}
 .notion-callout.bg-blue-light{border:1px solid var(--color-blue)!important;background:var(--color-blue)!important;color:var(--color-text-light)!important;padding:25px!important}
