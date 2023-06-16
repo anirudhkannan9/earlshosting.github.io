@@ -38,7 +38,7 @@ h4.notion-heading{font-size:1.2rem!important}.notion-root>h1{margin-bottom:60px!
 .notion-callout.bg-blue-light a,.notion-callout.bg-brown-light a,.notion-callout.bg-gray-light a,.notion-callout.bg-green-light a,.notion-callout.bg-orange-light a,.notion-callout.bg-pink-light a,.notion-callout.bg-purple-light a,.notion-callout.bg-red-light a{background:rgba(35,35,35,.2)!important;color:var(--color-text-light)!important}
 .notion-callout.bg-yellow-light a {
   background:rgba(35,35,35,.2)!important;
-  color:var(--color-text-light)!important
+  color:var(--color-text-light)!important /* making sure this is acc a comment */
 }
 .notion-callout.bg-yellow-light { 
   border:1px solid var(--color-yellow)!important;background:var(--color-yellow)!important;color:var(--color-text-light)!important;padding:25px!important
